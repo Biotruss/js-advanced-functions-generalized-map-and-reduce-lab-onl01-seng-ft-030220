@@ -21,4 +21,9 @@ const reduce = (array, callback, start) => {
     }
     return accum
   }
+<<<<<<< HEAD
 }
+=======
+}
+© 2020 GitHub, In
+>>>>>>> e3f48f288cb87d9729d65e60f11ff8e5775e1771
